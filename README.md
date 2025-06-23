@@ -1,7 +1,7 @@
 <!-- Professional Header -->
 <div align="center">
   <h1 style="font-family: 'Inter', sans-serif; color: #101827; font-size: 2.8em; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 10px; animation: fadeIn 1s ease-in;">
-    Hi, Thank you for visiting!<br>I am Lê Tấn Đạt.
+    Hi, Thank you for visiting!<br>I am Le Tan Dat.
   </h1>
   <h3 style="font-family: 'Inter', sans-serif; color: #4b5563; font-size: 1.4em; font-weight: 400; letter-spacing: 0.05em; margin-top: 5px; opacity: 0.9;">
     Software & AI Engineer | Innovator in Digital Solutions
