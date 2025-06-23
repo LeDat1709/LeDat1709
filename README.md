@@ -75,15 +75,15 @@
 <!-- Visitor Counter -->
 <div align="center">
   <h3>🌐 Lượt ghé thăm hồ sơ</h3>
-  <img src="https://profile-counter.glitch.me/letandat1806/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/LeDat1709/count.svg" alt="Visitor Count"/>
 </div>
 
 <!-- Connect Section -->
 <div align="center">
   <h3>🤝 Kết nối với tôi</h3>
   <p>
-    <a href="https://github.com/letandat1806"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/letandat1806/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/LeDat1709"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/LeDat1709/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://letandat.id.vn/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   </p>
 </div>
