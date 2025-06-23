@@ -7,9 +7,9 @@
   </pre>
 </div>
 
-<!-- Unique Contribution Snake Animation -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/main/assets/github-contribution-grid-snake-dark.svg" alt="contribution animation" style="filter: brightness(90%) contrast(110%);">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake animation">
 </div>
 
 <!-- Introduction Section -->
