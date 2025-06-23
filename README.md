@@ -1,14 +1,15 @@
 <!-- Professional Header -->
 <div align="center">
-  <h1 style="font-family: 'Helvetica Neue', sans-serif; color: #1e2a44; font-weight: bold;">Hi,
-
-Thank you for visiting!
-
-I am Le Tan Dat.</h1>
-  <h3 style="font-family: 'Helvetica Neue', sans-serif; color: #1e2a44; font-weight: normal;">Software & AI Engineer | Innovator in Digital Solutions</h3>
-  <pre style="font-family: monospace; color: #6b7280;">
-  ──────────────────────────────────────────────────
-  </pre>
+  <h1 style="font-family: 'Inter', sans-serif; color: #101827; font-size: 2.8em; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 10px; animation: fadeIn 1s ease-in;">
+    Hi, Thank you for visiting!<br>I am Lê Tấn Đạt.
+  </h1>
+  <h3 style="font-family: 'Inter', sans-serif; color: #4b5563; font-size: 1.4em; font-weight: 400; letter-spacing: 0.05em; margin-top: 5px; opacity: 0.9;">
+    Software & AI Engineer | Innovator in Digital Solutions
+  </h3>
+  <div style="width: 100px; height: 4px; background: linear-gradient(90deg, #3b82f6, #10b981); margin: 20px auto; border-radius: 2px;"></div>
+  <style>
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
 </div>
 
 <!-- Snake Animation -->
