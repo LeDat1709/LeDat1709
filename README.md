@@ -49,7 +49,7 @@
     <tr>
       <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=LeDat1709&theme=material-palenight&show_icons=true&count_private=true&border_color=1e2a44" alt="Lê Tấn Đạt’s GitHub Stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=material-palenight&hide_border=false&background=1e2a44&stroke=3b82f6" alt="Contribution Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangvu1806&theme=radical&hide_border=false" alt="Streak Stats">
       </td>
       <td width="50%">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LeDat1709&theme=material-palenight&hide_border=false&langs_count=8&border_color=1e2a44" alt="Top Languages">
