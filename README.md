@@ -1,6 +1,10 @@
 <!-- Professional Header -->
 <div align="center">
-  <h1 style="font-family: 'Helvetica Neue', sans-serif; color: #1e2a44; font-weight: bold;">Lê Tấn Đạt</h1>
+  <h1 style="font-family: 'Helvetica Neue', sans-serif; color: #1e2a44; font-weight: bold;">Hi,
+
+Thank you for visiting!
+
+I am Le Tan Dat.</h1>
   <h3 style="font-family: 'Helvetica Neue', sans-serif; color: #1e2a44; font-weight: normal;">Software & AI Engineer | Innovator in Digital Solutions</h3>
   <pre style="font-family: monospace; color: #6b7280;">
   ──────────────────────────────────────────────────
@@ -15,7 +19,7 @@
 <!-- Introduction Section -->
 <div align="center">
   <p style="font-family: 'Arial', sans-serif; color: #374151;">
-    👤 <b>Profile:</b> Lê Tấn Đạt, a 19-year-old Software and AI Engineer<br>
+    👤 <b>Profile:</b> Le Tan Dat, a 19-year-old Software and AI Engineer<br>
     ⚡️ <b>Gender:</b> Male<br>
     🎯 <b>Interests:</b> Developing cutting-edge websites, enterprise software, and AI-powered mobile applications<br>
     💼 <b>Focus:</b> Building scalable e-commerce platforms, robust management systems, and innovative mobile apps integrated with AI<br>
