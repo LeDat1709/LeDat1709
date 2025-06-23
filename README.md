@@ -7,9 +7,6 @@
     Software & AI Engineer | Innovator in Digital Solutions
   </h3>
   <div style="width: 100px; height: 4px; background: linear-gradient(90deg, #3b82f6, #10b981); margin: 20px auto; border-radius: 2px;"></div>
-  <style>
-    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-  </style>
 </div>
 
 <!-- Snake Animation -->
