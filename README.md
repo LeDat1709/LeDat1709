@@ -21,7 +21,7 @@
     ⚡️ <b>Gender:</b> Male<br>
     🎯 <b>Interests:</b> Developing cutting-edge websites, enterprise software, and AI-powered mobile applications<br>
     💼 <b>Focus:</b> Building scalable e-commerce platforms, robust management systems, and innovative mobile apps integrated with AI<br>
-    📧 <b>Contact:</b> Reach me at <a href="mailto:letandat.work@gmail.com">letandat.work@gmail.com</a>
+    📧 <b>Contact:</b> Reach me at <a href="mailto:letandat1709@gmail.com">letandat1709@gmail.com</a>
   </p>
 </div>
 
