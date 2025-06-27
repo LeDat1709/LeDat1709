@@ -22,9 +22,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Thay đổi bảng màu ở đây để có giao diện kinh dị hơn (ví dụ: github-dark-orange, github-dark-purple)
+          # Thay đổi màu nền thành xanh navy (000080) và rắn màu trắng (FFFFFF)
           outputs: dist/snake.svg?color=000080,FFFFFF,FFFFFF,FFFFFF,FFFFFF
-
 
 
       - name: push snake.svg to the output branch
