@@ -9,10 +9,7 @@
   <div style="width: 100px; height: 4px; background: linear-gradient(90deg, #3b82f6, #10b981); margin: 20px auto; border-radius: 2px;"></div>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DatLe1709/Datle1709/output/snake.svg" alt="snake animation">
-</div>
+
 
 <!-- Introduction Section -->
 <div align="center">
