@@ -74,7 +74,7 @@
   <p>
     <a href="https://github.com/LeDat1709"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white&color=1e2a44" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/dat-le-b26a40370/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white&color=1e2a44" alt="LinkedIn"></a>
-    <a href="https://letandat.id.vn/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=firefox&logoColor=white&color=1e2a44" alt="Portfolio"></a>
+    <a href="https://ledat1709.github.io/LTDPortfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=firefox&logoColor=white&color=1e2a44" alt="Portfolio"></a>
   </p>
 </div>
 
