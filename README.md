@@ -11,7 +11,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/DatLe1709/Datle1709/output/snake.svg" alt="snake animation">
 </div>
 
 <!-- Introduction Section -->
