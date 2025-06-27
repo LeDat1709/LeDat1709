@@ -1,3 +1,5 @@
+
+<img src="https://raw.githubusercontent.com/LeDat1709/LeDat1709/output/snake.svg" alt="Snake animation" />
 <!-- Professional Header -->
 <div align="center">
   <h1 style="font-family: 'Inter', sans-serif; color: #101827; font-size: 2.8em; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 10px; animation: fadeIn 1s ease-in;">
@@ -8,7 +10,7 @@
   </h3>
   <div style="width: 100px; height: 4px; background: linear-gradient(90deg, #3b82f6, #10b981); margin: 20px auto; border-radius: 2px;"></div>
 </div>
-<img src="https://raw.githubusercontent.com/LeDat1709/LeDat1709/output/snake.svg" alt="Snake animation" />
+
 
 
 <!-- Introduction Section -->
