@@ -8,7 +8,7 @@
   </h3>
   <div style="width: 100px; height: 4px; background: linear-gradient(90deg, #3b82f6, #10b981); margin: 20px auto; border-radius: 2px;"></div>
 </div>
-<img src="https://raw.githubusercontent.com/LeDat1709/LeDat1709/output/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeDat1709/LeDat1709/output/snake.svg" alt="Snake animation" />
 
 
 <!-- Introduction Section -->
