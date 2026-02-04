@@ -26,33 +26,46 @@
   </h2>
 </div>
 
-```javascript
-const datProfile = {
-    name: "Le Tan Dat",
-    age: 21,
-    location: "Vietnam 🇻🇳",
-    role: "Full-Stack Developer & AI Engineer",
-    
-    skills: {
-        mobile: ["React Native", "Flutter", "Android", "iOS"],
-        web: ["React", "Next.js", "Vue.js", "Node.js", "ASP.NET Core"],
-        software: ["C#", "Python", "Java", "Desktop Apps"],
-        ai: ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
-        game: ["Unity", "C#", "Game Design", "2D/3D Development"],
-        databases: ["SQL Server", "MongoDB", "PostgreSQL", "Firebase"]
-    },
-    
-    currentFocus: [
-        "🚀 Building scalable web applications",
-        "📱 Developing cross-platform mobile apps", 
-        "🤖 Creating AI-powered solutions",
-        "🎮 Game development with Unity",
-        "☁️ Cloud architecture & DevOps"
-    ],
-    
-    contact: "letandat1709@gmail.com"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF"/>
+      </td>
+      <td width="70%">
+        <h3>👋 Hi there! I'm Le Tan Dat</h3>
+        <p align="left">
+          🎂 <strong>Age:</strong> 21 years old<br>
+          📍 <strong>Location:</strong> Vietnam 🇻🇳<br>
+          💼 <strong>Role:</strong> Full-Stack Developer & AI Engineer<br>
+          🎓 <strong>Experience:</strong> 3+ years in software development<br>
+          📧 <strong>Contact:</strong> <a href="mailto:letandat1709@gmail.com">letandat1709@gmail.com</a>
+        </p>
+        
+        <h4>🚀 What I Do:</h4>
+        <p align="left">
+          📱 <strong>Mobile Development:</strong> React Native, Flutter, Android, iOS<br>
+          🌐 <strong>Web Development:</strong> React, Next.js, Vue.js, Node.js, ASP.NET Core<br>
+          💻 <strong>Software Development:</strong> C#, Python, Java, Desktop Applications<br>
+          🤖 <strong>AI & Machine Learning:</strong> Deep Learning, Computer Vision, NLP<br>
+          🎮 <strong>Game Development:</strong> Unity, C#, Game Design, 2D/3D Development<br>
+          🗄️ <strong>Databases:</strong> SQL Server, MongoDB, PostgreSQL, Firebase
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🎯 Current Focus</h3>
+  <p>
+    🚀 Building scalable web applications &nbsp;&nbsp;|&nbsp;&nbsp;
+    📱 Developing cross-platform mobile apps &nbsp;&nbsp;|&nbsp;&nbsp;
+    🤖 Creating AI-powered solutions &nbsp;&nbsp;|&nbsp;&nbsp;
+    🎮 Game development with Unity &nbsp;&nbsp;|&nbsp;&nbsp;
+    ☁️ Cloud architecture & DevOps
+  </p>
+</div>
 
 ---
 
@@ -167,29 +180,37 @@ const datProfile = {
   </h2>
 </div>
 
-<!-- GitHub Achievements -->
-<div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=LeDat1709&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </p>
-</div>
-
 <!-- Main Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDat1709&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDat1709&layout=compact&theme=dark" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=dark" alt="GitHub Streak"/>
 </div>
 
-<!-- Simple Activity Stats -->
+<!-- GitHub Achievements -->
 <div align="center">
-  <h3>📊 Contribution Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true" />
+  <h3>🏆 GitHub Achievements & Rank</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub%20Rank-B---%23FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Rank"/>
+    <img src="https://img.shields.io/badge/Repositories-15%2B-blue?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Commits-500%2B-green?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
+  </p>
+  
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=LeDat1709&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  </p>
 </div>
 
 ---
