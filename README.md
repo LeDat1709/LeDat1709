@@ -159,33 +159,71 @@ const datProfile = {
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats & Achievements -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-    GitHub Analytics
+    GitHub Analytics & Achievements
   </h2>
 </div>
 
+<!-- GitHub Achievements -->
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=LeDat1709&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  </p>
+</div>
+
+<!-- Main Stats -->
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
       </td>
       <td width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDat1709&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDat1709&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=400"/>
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeDat1709&theme=tokyonight&hide_border=true" />
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeDat1709&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeDat1709&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</div>
+
+<!-- Detailed Stats -->
+<div align="center">
+  <h3>📊 Detailed GitHub Metrics</h3>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeDat1709&theme=tokyonight" alt="Profile Details" />
+  </p>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeDat1709&theme=tokyonight" alt="Repos per Language" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeDat1709&theme=tokyonight" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeDat1709&theme=tokyonight" alt="Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeDat1709&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -193,7 +231,7 @@ const datProfile = {
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="35">
-    Current Focus & Goals
+    Achievements & Goals
   </h2>
 </div>
 
@@ -201,32 +239,54 @@ const datProfile = {
   <table>
     <tr>
       <td width="33%">
+        <h3>� GitHub Achievements</h3>
+        <ul align="left">
+          <li>🌟 <strong>GitHub Rank:</strong> B-</li>
+          <li>🔥 Active contributor</li>
+          <li>📈 Consistent commit streak</li>
+          <li>🎯 Multiple language expertise</li>
+          <li>⭐ Quality code maintainer</li>
+        </ul>
+      </td>
+      <td width="33%">
         <h3>🎯 2024 Goals</h3>
         <ul align="left">
-          <li>Master React Native & Flutter</li>
-          <li>Build 5+ AI-powered apps</li>
-          <li>Contribute to open source</li>
-          <li>Launch indie game project</li>
+          <li>🚀 Reach GitHub Rank A</li>
+          <li>📱 Master React Native & Flutter</li>
+          <li>🤖 Build 5+ AI-powered apps</li>
+          <li>🌟 Contribute to open source</li>
+          <li>🎮 Launch indie game project</li>
         </ul>
       </td>
       <td width="33%">
-        <h3>📚 Currently Learning</h3>
+        <h3>� Currently Learning</h3>
         <ul align="left">
-          <li>Advanced Machine Learning</li>
-          <li>Cloud Architecture (AWS/Azure)</li>
-          <li>Microservices with Docker</li>
-          <li>Game AI & Physics</li>
+          <li>� oAdvanced Machine Learning</li>
+          <li>☁️ Cloud Architecture (AWS/Azure)</li>
+          <li>🐳 Microservices with Docker</li>
+          <li>� Game AI & Physics</li>
+          <li>📊 Data Science & Analytics</li>
         </ul>
       </td>
-      <td width="33%">
-        <h3>💡 Fun Facts</h3>
-        <ul align="left">
-          <li>🎮 Love creating indie games</li>
-          <li>🤖 AI enthusiast since 2022</li>
-          <li>☕ Coffee-driven developer</li>
-          <li>🌱 Always learning new tech</li>
-        </ul>
-      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>💡 Fun Facts About Me</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub%20Rank-B---%23FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Rank"/>
+    <img src="https://img.shields.io/badge/Age-21%20years-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Age"/>
+    <img src="https://img.shields.io/badge/Experience-3%2B%20years-green?style=for-the-badge&logo=code&logoColor=white" alt="Experience"/>
+    <img src="https://img.shields.io/badge/Projects-15%2B%20completed-orange?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+  </p>
+  
+  <table>
+    <tr>
+      <td width="25%">🎮 Love creating indie games</td>
+      <td width="25%">🤖 AI enthusiast since 2022</td>
+      <td width="25%">☕ Coffee-driven developer</td>
+      <td width="25%">🌱 Always learning new tech</td>
     </tr>
   </table>
 </div>
