@@ -26,35 +26,31 @@
   </h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="30%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF"/>
-      </td>
-      <td width="70%">
-        <h3>👋 Hi there! I'm Le Tan Dat</h3>
-        <p align="left">
-          🎂 <strong>Age:</strong> 21 years old<br>
-          📍 <strong>Location:</strong> Vietnam 🇻🇳<br>
-          💼 <strong>Role:</strong> Full-Stack Developer & AI Engineer<br>
-          🎓 <strong>Experience:</strong> 3+ years in software development<br>
-          📧 <strong>Contact:</strong> <a href="mailto:letandat1709@gmail.com">letandat1709@gmail.com</a>
-        </p>
-        
-        <h4>🚀 What I Do:</h4>
-        <p align="left">
-          📱 <strong>Mobile Development:</strong> React Native, Flutter, Android, iOS<br>
-          🌐 <strong>Web Development:</strong> React, Next.js, Vue.js, Node.js, ASP.NET Core<br>
-          💻 <strong>Software Development:</strong> C#, Python, Java, Desktop Applications<br>
-          🤖 <strong>AI & Machine Learning:</strong> Deep Learning, Computer Vision, NLP<br>
-          🎮 <strong>Game Development:</strong> Unity, C#, Game Design, 2D/3D Development<br>
-          🗄️ <strong>Databases:</strong> SQL Server, MongoDB, PostgreSQL, Firebase
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF"/>
+    </td>
+    <td width="70%">
+      <h3>👋 Hi there! I'm Le Tan Dat</h3>
+      
+      **🎂 Age:** 21 years old  
+      **📍 Location:** Vietnam 🇻🇳  
+      **💼 Role:** Full-Stack Developer & AI Engineer  
+      **🎓 Experience:** 3+ years in software development  
+      **📧 Contact:** [letandat1709@gmail.com](mailto:letandat1709@gmail.com)
+      
+      ### 🚀 What I Do:
+      
+      **📱 Mobile Development:** React Native, Flutter  
+      **🌐 Web Development:** React, Next.js, Vue.js, Node.js, ASP.NET Core  
+      **💻 Software Development:** C#, Python, Java, Desktop Applications  
+      **🤖 AI & Machine Learning:** Deep Learning, Computer Vision, NLP  
+      **🎮 Game Development:** Unity, C#, Game Design, 2D/3D Development  
+      **🗄️ Databases:** SQL Server, MongoDB, PostgreSQL, Firebase
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <h3>🎯 Current Focus</h3>
@@ -88,7 +84,7 @@
   
   <h3>📱 Mobile Development</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,react,android,kotlin" />
+    <img src="https://skillicons.dev/icons?i=flutter,react" />
   </p>
   
   <h3>🤖 AI & Data Science</h3>
