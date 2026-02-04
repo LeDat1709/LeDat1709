@@ -171,59 +171,25 @@ const datProfile = {
 <div align="center">
   <h3>🏆 GitHub Achievements</h3>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=LeDat1709&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LeDat1709&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </p>
 </div>
 
 <!-- Main Stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-      </td>
-      <td width="50%">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDat1709&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=400"/>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeDat1709&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeDat1709&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeDat1709&theme=dark&hide_border=false" />
 </div>
 
-<!-- Activity Graph -->
+<!-- Simple Activity Stats -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeDat1709&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</div>
-
-<!-- Detailed Stats -->
-<div align="center">
-  <h3>📊 Detailed GitHub Metrics</h3>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeDat1709&theme=tokyonight" alt="Profile Details" />
-  </p>
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeDat1709&theme=tokyonight" alt="Repos per Language" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeDat1709&theme=tokyonight" alt="Most Commit Language" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeDat1709&theme=tokyonight" alt="Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeDat1709&theme=tokyonight&utcOffset=7" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
+  <h3>📊 Contribution Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeDat1709&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_owner=true" />
 </div>
 
 ---
