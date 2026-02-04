@@ -33,21 +33,23 @@
     </td>
     <td width="70%">
       <h3>👋 Hi there! I'm Le Tan Dat</h3>
+      <ul>
+        <li>🎂 <b>Age:</b> 21 years old</li>
+        <li>📍 <b>Location:</b> Vietnam 🇻🇳</li>
+        <li>💼 <b>Role:</b> Full-Stack Developer & AI Engineer</li>
+        <li>🎓 <b>Experience:</b> 3+ years in software development</li>
+        <li>📧 <b>Contact:</b> <a href="mailto:letandat1709@gmail.com">letandat1709@gmail.com</a></li>
+      </ul>
       
-      **🎂 Age:** 21 years old  
-      **📍 Location:** Vietnam 🇻🇳  
-      **💼 Role:** Full-Stack Developer & AI Engineer  
-      **🎓 Experience:** 3+ years in software development  
-      **📧 Contact:** [letandat1709@gmail.com](mailto:letandat1709@gmail.com)
-      
-      ### 🚀 What I Do:
-      
-      **📱 Mobile Development:** React Native, Flutter  
-      **🌐 Web Development:** React, Next.js, Vue.js, Node.js, ASP.NET Core  
-      **💻 Software Development:** C#, Python, Java, Desktop Applications  
-      **🤖 AI & Machine Learning:** Deep Learning, Computer Vision, NLP  
-      **🎮 Game Development:** Unity, C#, Game Design, 2D/3D Development  
-      **🗄️ Databases:** SQL Server, MongoDB, PostgreSQL, Firebase
+      <h3>🚀 What I Do:</h3>
+      <ul>
+        <li>📱 <b>Mobile Development:</b> React Native, Flutter</li>
+        <li>🌐 <b>Web Development:</b> React, Next.js, Vue.js, Node.js, ASP.NET Core</li>
+        <li>💻 <b>Software Development:</b> C#, Python, Java, Desktop Applications</li>
+        <li>🤖 <b>AI & Machine Learning:</b> Deep Learning, Computer Vision, NLP</li>
+        <li>🎮 <b>Game Development:</b> Unity, C#, Game Design, 2D/3D Development</li>
+        <li>🗄️ <b>Databases:</b> SQL Server, MongoDB, PostgreSQL, Firebase</li>
+      </ul>
     </td>
   </tr>
 </table>
