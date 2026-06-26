@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Le+Tan+Dat;Full-Stack+Developer;Java+%7C+JavaScript+%7C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Le+Tan+Dat;Software+Engineer+Intern;Java+%7C+JavaScript+%7C+C%23" alt="Typing SVG" />
 
   <img src="https://raw.githubusercontent.com/LeDat1709/LeDat1709/output/snake.svg" alt="Snake animation" />
 
@@ -14,8 +14,10 @@
 ## About Me
 
 - **Name:** Le Tan Dat
-- **Location:** Vietnam
-- **Role:** Full-Stack Developer
+- **Location:** 03 Hong Duc, Thu Duc, Ho Chi Minh City
+- **Role:** Software Engineer Intern
+- **Education:** Saigon International University (SIU) — GPA 3.77/4.0
+- **Phone:** 0937833154
 - **Contact:** [letandat1709@gmail.com](mailto:letandat1709@gmail.com)
 
 ---
